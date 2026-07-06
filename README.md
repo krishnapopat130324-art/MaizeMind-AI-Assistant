@@ -15,23 +15,6 @@
 
 ---
 
-# 📖 Table of Contents
-
-- [About](#-about)
-- [Features](#-features)
-- [Quick Start](#-quick-start)
-- [How It Works](#-how-it-works)
-- [Project Structure](#-project-structure)
-- [Example Output](#-example-output)
-- [Tech Stack](#-tech-stack)
-- [Configuration](#-configuration)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
-- [Contact](#-contact)
-
----
-
 # 📖 About
 
 **MaizeMind** is a lightweight AI-powered visual reasoning assistant that extracts logical structures from written text and converts them into interactive argument maps.
